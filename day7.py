@@ -1,3 +1,4 @@
+'''
 # If-Else Statement
 # Program to check if a person is eligible to vote or not
 # Eligibility criteria: Age must be 18 or above
@@ -22,5 +23,5 @@ elif marks >= 70:
     print("Congratulations", name, "! You have secured grade", grade)
 else:
     grade = 'D'
-    print("Sorry", name, "! You have secured grade", grade)
+    print("Sorry", name, "! You have secured grade", grade)'''
 #--------------------------------
