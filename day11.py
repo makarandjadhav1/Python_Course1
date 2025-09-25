@@ -6,3 +6,8 @@ greet()
 def add(a, b):
     print("Sum =", a + b)
 add(5,3)
+#Example 3 (Return Value)
+def square(num):
+    return num * num 
+result = square(6)
+print("Square =",result)
