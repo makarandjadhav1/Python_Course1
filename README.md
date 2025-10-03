@@ -28,8 +28,6 @@ graph TD;
 * 🔖 Exercises after every chapter
 * 🛠 Project guides included
 
-📥 [**Download Book (PDF)**](Learn Python in One Day and Learn It Well_ Python for Beginners with Hands-on Project. The only book you need to start coding in Python immediately ( PDFDrive ).pdf)
-
 ---
 
 ## ⚙️ Requirements
@@ -84,14 +82,4 @@ pip install -r requirements.txt
 
 ⭐ If this course & book help you, share it with friends & learners!
 Your support keeps the knowledge flowing 💜
-
-```
-
----
-
-⚡ Notes:
-- I included a **Mermaid roadmap diagram** — GitHub *does* render Mermaid charts, but if you’re not using GitHub, you can remove that block or replace it with an ASCII diagram.
-- This feels “futuristic” with emojis, Unicode, and a clean structure — not just plain text.
-
-👉 Do you want me to **also generate the companion `book.pdf`** (with chapters matching this futuristic README), so it’s fully linked and ready to use?
 ```
