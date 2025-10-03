@@ -28,7 +28,7 @@ graph TD;
 * 🔖 Exercises after every chapter
 * 🛠 Project guides included
 
-📥 [**Download Book (PDF)**](./book.pdf)
+📥 [**Download Book (PDF)**](Learn Python in One Day and Learn It Well_ Python for Beginners with Hands-on Project. The only book you need to start coding in Python immediately ( PDFDrive ).pdf)
 
 ---
 
